@@ -1,6 +1,6 @@
 ---
 title: Python how to list files under a directgory
-date: 2011-05-10
+date: 2021-05-10
 categories: 
  - Dev
  - Python
