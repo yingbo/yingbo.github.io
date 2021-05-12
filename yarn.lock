@@ -1597,6 +1597,11 @@ hexo-generator-category@^1.0.0:
   dependencies:
     hexo-pagination "1.0.0"
 
+hexo-generator-cname@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/hexo-generator-cname/-/hexo-generator-cname-0.3.0.tgz#9dead58ae568ccfb4ea9aee28715e093658d2d09"
+  integrity sha1-nerViuVozPtOqa7ihxXgk2WNLQk=
+
 hexo-generator-index@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/hexo-generator-index/-/hexo-generator-index-2.0.0.tgz#15e71f4d28ee9d2172e2d77e8d1dba04882edc8f"
